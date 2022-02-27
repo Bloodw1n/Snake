@@ -8,4 +8,4 @@
 2. Водим стрелкой по полю;
 3. Наслаждаемся <3
 
-![Snake](img/snake.png)
+![Snake](img/Snake.png)
